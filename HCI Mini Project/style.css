@@ -140,3 +140,6 @@ input[type=checkbox]{
     color: 	#707070;
     font-size: 15px;
 }
+#tick{
+    margin-top: 25px;
+}
